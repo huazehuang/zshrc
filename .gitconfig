@@ -1,0 +1,6 @@
+[user]
+	email = zehua.huang@tusimple.ai
+	name = Zehua Huang
+[alias]
+	ci = commit -m
+	st = status

@@ -90,5 +90,4 @@ alias pycharm='bash /home/zehua/Software/pycharm-2016.3.3/bin/pycharm.sh &'
 alias vz='vim ~/.zshrc'
 alias sz='source ~/.zshrc'
 
-
-
+source /opt/ros/indigo/setup.zsh

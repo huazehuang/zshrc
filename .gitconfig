@@ -7,3 +7,5 @@
 	co = checkout
 	po = push origin develop
 	pu = pull origin develop
+[core]
+	editor = vim

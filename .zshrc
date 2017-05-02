@@ -90,4 +90,9 @@ alias pycharm='bash /home/zehua/Software/pycharm-2016.3.3/bin/pycharm.sh &'
 alias vz='vim ~/.zshrc'
 alias sz='source ~/.zshrc'
 
-source /opt/ros/indigo/setup.zsh
+source /opt/ros/kinetic/setup.zsh
+source $HOME/Documents/workspace/devel/setup.zsh
+source $HOME/Documents/octopus/ros/devel/setup.zsh
+
+alias pycharm='bash "$HOME"/Software/pycharm/bin/pycharm.sh &'
+alias clion='bash "$HOME"/Software/clion/bin/clion.sh &'

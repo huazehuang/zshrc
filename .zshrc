@@ -96,3 +96,4 @@ source $HOME/Documents/octopus/ros/devel/setup.zsh
 
 alias pycharm='bash "$HOME"/Software/pycharm/bin/pycharm.sh &'
 alias clion='bash "$HOME"/Software/clion/bin/clion.sh &'
+alias co='cd "$HOME"/Documents/octopus'
